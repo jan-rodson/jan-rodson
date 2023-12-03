@@ -1,15 +1,16 @@
 # jan-rodson
 
-<h2> Hi, I'm Javier! &#127791; </h2>
+## Hi, I'm Javier!
 
-<p>
-  I´m finishing my Telematics Engeneering degree at <a href="https://www.etsist.upm.es">ETSIST (UPM, Madrid) &#127891; </a>
-  </br>
-  In the meantime I´m also working as Developer at <a href="https://www.ericsson.com/en">Ericsson &#128225; </a>
-</p>
+Telematics Engineer by [UPM](https://www.etsist.upm.es)
+
+Developer at [Ericsson](https://www.ericsson.com/en)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=jan-rodson&show_icons=true&count_private=true&theme=dark)\
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jan-rodson&theme=dark)
 
 
-<h3> To be continued...  </h3>
+
 
 
 
